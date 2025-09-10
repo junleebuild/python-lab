@@ -10,7 +10,6 @@ courses/
 angela-100days/
 Day01/ ... Day15/ # Organized notes
 projects/ # Unsorted projects from Day16 onwards
-requirements.txt
 
 - `Day01`–`Day15`: Completed summaries from Angela Yu's Python 100 Days Bootcamp  
 - `projects/`: Placeholder folder containing unsorted code from later days (Day16+)  
