@@ -13,3 +13,5 @@ projects/ # Unsorted projects from Day16 onwards
 
 - `Day01`–`Day15`: Completed summaries from Angela Yu's Python 100 Days Bootcamp  
 - `projects/`: Placeholder folder containing unsorted code from later days (Day16+)  
+
+2025-09-16 will start
